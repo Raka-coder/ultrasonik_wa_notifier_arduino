@@ -1,11 +1,11 @@
 # Smart Ultrasonik WhatsApp Notifier
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white/)](https://www.arduino.cc/)
 
-![CallMeBot](https://www.callmebot.com/wp-content/uploads/2019/10/Logo-Negro_x1.png)
+[![CallMeBot](https://www.callmebot.com/wp-content/uploads/2019/10/Logo-Negro_x1.png)](https://www.callmebot.com/)
 
-![CallMeBot](https://img.shields.io/badge/CallMeBot-WhatsApp%20API-25D366?logo=data:image/png;base64,BASE64_ICON)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-v2.3.4-blue)
+[![CallMeBot](https://img.shields.io/badge/CallMeBot-WhatsApp%20API-25D366?logo=data:image/png;base64,BASE64_ICON)](https://www.callmebot.com/blog/whatsapp-messages-from-esp8266-esp32/)
+[![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-v2.3.4-blue)](https://www.arduino.cc/en/software)
 
 ## 🌟 Fitur Utama
 - [x] Deteksi jarak real-time
@@ -28,9 +28,9 @@ Komponen Pendukung
 - Nomor Ponsel
 - API Key CallMeBot
 
-## 💻 Usage
+## 💻 Penggunaan
 ### Inisialisasi
-Mengirim Pesan Whatsapp Dengan ESP8266 / ESP32
+Mengirim Pesan Ke Whatsapp Dengan ESP8266 / ESP32
 Instruksi API Key: [https://www.callmebot.com/blog/free-api-whatsapp-messages/](https://www.callmebot.com/blog/whatsapp-messages-from-esp8266-esp32/)
 
 ## 🔌 Diagram Koneksi
