@@ -7,10 +7,8 @@
 - [ ] Integrasi cloud (dalam pengembangan)
 
 ## 🛠 Komponen Elektronik
-```
-// Daftar Komponen
+  Daftar Komponen
   "Wemos D1 Mini / ESP8266",
   "Sensor Ultrasonik HC-SR04",
   "Kabel Jumper",
   "Breadboard"
-];
