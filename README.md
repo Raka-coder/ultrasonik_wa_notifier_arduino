@@ -51,5 +51,5 @@ D5               |                   |       |  BUZZER  |
 - CallMeBot WhatsApp API
   
 ## 🔒 Lisensi
-MIT License - Lihat [![License]()
+MIT License - Lihat [Lisensi](https://github.com/Raka-coder/ultrasonik_wa_notifier_arduino/blob/main/LICENSE)
 
