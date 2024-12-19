@@ -7,7 +7,6 @@
  * @Informasi Umum
  * --------------
  * Nama        : Ultrasonik WhatsApp Notifier
- * Status      : Aktif Pengembangan
  * 
  * @Pembuat
  * --------
@@ -199,3 +198,4 @@ void debugLog(String pesan) {
     Serial.println(pesan);
   #endif
 }
+
