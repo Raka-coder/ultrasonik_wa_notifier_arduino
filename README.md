@@ -13,7 +13,7 @@
 - [x] Kontrol interval dinamis
 
 ## 🛠 Komponen Elektronik
-Daftar Komponen
+### Daftar Komponen:
 - Wemos D1 Mini / ESP8266
 - Sensor Ultrasonik HC-SR04
 - Kabel Jumper
@@ -22,7 +22,7 @@ Daftar Komponen
 - LED 5v
 - BUZZER
   
-Komponen Pendukung
+### Komponen Pendukung:
 - Internet/WiFi
 - Kontak CallMeBot
 - Nomor Ponsel
