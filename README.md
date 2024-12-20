@@ -24,6 +24,7 @@
   
 ### Komponen Pendukung:
 - Internet/WiFi
+- Arduino IDE
 - Kontak CallMeBot
 - Nomor Ponsel
 - API Key CallMeBot
